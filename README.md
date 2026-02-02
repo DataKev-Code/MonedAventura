@@ -19,6 +19,15 @@ Su objetivo es promover el aprendizaje financiero de manera divertida, intuitiva
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design-black?style=for-the-badge&logo=figma)
 
+## 💡 Enfoque del Proyecto
+
+Este proyecto prioriza:
+- Arquitectura modular y escalable
+- Buen manejo de estado en frontend
+- Separación clara de responsabilidades
+- Integración frontend–backend vía API REST
+- Experiencia de usuario enfocada en público infantil
+
 ### **Resumen técnico**
 - Frontend: React (Vite) + TypeScript + TailwindCSS  
 - Estado global: Zustand  
@@ -111,24 +120,21 @@ Copiar código
 ![Inicio](docs/screenshots/home.png)
 ![Nivel](docs/screenshots/level.png)
 ![Panel Parental](docs/screenshots/parent-dashboard.png)
-🎯 Objetivo Académico
-Este proyecto forma parte del Proceso de Portafolio Final de Ingeniería en Informática (Duoc UC).
-Implementa conocimientos de:
 
-Desarrollo frontend profesional
+🎯 Contexto del Proyecto
 
-Integración API REST
+MonedAventura es un proyecto de desarrollo completo orientado a la creación
+de una plataforma educativa gamificada para la enseñanza de finanzas personales
+en niños.
 
-Gamificación educativa
-
-Diseño de experiencia de usuario
-
-Patrones de arquitectura web
-
-Versionamiento y documentación técnica
+El proyecto fue desarrollado como trabajo de cierre de carrera, aplicando
+buenas prácticas de desarrollo frontend, arquitectura web, integración de APIs
+y diseño centrado en el usuario.
 
 👨‍💻 Autor
-Kevin Alejandro Ortega Pérez
-Ingeniero en Informática – Duoc UC
-📧 Email: kevinortegaperez@gmail.com
-🔗 GitHub: https://github.com/DataKev-Code
+Kevin Ortega  
+Ingeniero en Informática  
+
+📧 Email: kevin.ortega.p24@gmail.com  
+🔗 GitHub: https://github.com/kevinortega-dev  
+🔗 LinkedIn: https://www.linkedin.com/in/kevin-ortega-3-55379225/
